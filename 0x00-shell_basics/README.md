@@ -13,3 +13,4 @@
 *12-file_type*cript that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
 *13-symbolic_link* symbolic link
 *14-copy_html*Copy HTML files
+*100-lets_move* lets move
