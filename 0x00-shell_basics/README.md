@@ -15,3 +15,4 @@
 *14-copy_html*Copy HTML files
 *100-lets_move* lets move
 *101-clean_emacs*delete char that end with ~
+*102-tree*script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
