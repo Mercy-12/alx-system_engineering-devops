@@ -12,3 +12,4 @@
 *11-lists*script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory/boot
 *12-file_type*cript that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
 *13-symbolic_link* symbolic link
+*14-copy_html*Copy HTML files
