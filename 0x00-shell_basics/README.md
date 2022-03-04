@@ -14,3 +14,4 @@
 *13-symbolic_link* symbolic link
 *14-copy_html*Copy HTML files
 *100-lets_move* lets move
+*101-clean_emacs*delete char that end with ~
