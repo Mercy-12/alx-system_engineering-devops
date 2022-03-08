@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -oP '^[^:]+|.*:\K[^:]+(?=:[^:]+)' /etc/password
+sort -d | find /etc/passwd /home/* -type -d | uniq | less
